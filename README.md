@@ -1,3 +1,24 @@
+<img align="right" height="150" src="https://media.giphy.com/media/sb4jbgzuyLrsCdYkLo/giphy.gif" />
+
+# `>_ root@faiz:~# ./whoami.sh`
+
+```text
+Executing profile.sh...
+---------------------------------------------------------------------------
+[+] Predicted First Class BSc (Hons) Applied Computing graduate with hands-on 
+    experience in full-stack development, cloud computing, cybersecurity, IoT, and AI
+[+] Currently studying for the AWS Certified Cloud Practitioner (CLF-C02) certification
+[+] Completed the Pearson BTEC Level 5 HND in Computing (RQF) with Distinction
+[+] Experienced in delivering hardware-integrated software, including a production-quality 
+    IoT Smart Security System using ESP32, Node.js, and MySQL
+[+] Seeking a junior role in software engineering, cloud computing, DevOps, 
+    cybersecurity, or IT support
+[+] Skilled in Python, JavaScript (Node.js), C++, PHP, HTML/CSS, and SQL
+---------------------------------------------------------------------------
+Process finished with exit code 0.
+
+```
+
 # About Me:
 About Me<br>Predicted First Class BSc (Hons) Applied Computing graduate with hands-on experience in full-stack development, cloud computing, cybersecurity, IoT, and AI<br>Currently studying for the AWS Certified Cloud Practitioner (CLF-C02) certification<br>Completed the Pearson BTEC Level 5 Higher National Diploma (HND) in Computing (RQF) with Distinction<br>Experienced in delivering hardware-integrated software, including a production-quality IoT Smart Security System using ESP32, Node.js, and MySQL<br>Seeking a junior role in software engineering, cloud computing, DevOps, cybersecurity, or IT support<br>Skilled in Python, JavaScript (Node.js), C++, PHP, HTML/CSS, and SQL
 
@@ -5,11 +26,6 @@ About Me<br>Predicted First Class BSc (Hons) Applied Computing graduate with han
 ## Socials:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiz-muhammed/)](https://www.linkedin.com/in/faiz-muhammed/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fa.iizii) 
-
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/sb4jbgzuyLrsCdYkLo/giphy.gif"  />
 
 ###
 
