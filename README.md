@@ -19,9 +19,6 @@ Process finished with exit code 0.
 # About Me:
 Welcome to my GitHub! I am a dedicated software engineer with a strong foundation in both software development and hardware integration. I enjoy bridging the gap between physical devices and web applications, building everything from underlying database schemas to responsive front-end dashboards.
 
-## Socials:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiz-muhammed/)](https://www.linkedin.com/in/faiz-muhammed/) 
-
 ###
 
 # Tech Stack:
