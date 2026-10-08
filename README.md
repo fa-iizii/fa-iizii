@@ -1,23 +1,26 @@
 <img align="right" height="150" src="https://media.giphy.com/media/sb4jbgzuyLrsCdYkLo/giphy.gif" alt="Typing Cat" />
 
-# `>_ root@faiz:~# ./whoami.sh`
+# `>_ root@f1z:~# ./whoami.sh`
 
 ```text
 Executing profile.sh...
+[==================================================] 100% 
 ---------------------------------------------------------------------------
-[+] Role: Full-Stack Developer | Cloud Enthusiast | IoT Integrator
-[+] Status: First Class BSc (Hons) Applied Computing Graduate
-[+] Certifications: BTEC Level 5 HND (Distinction) | AWS CLF-C02 (In Progress)
-[+] Expertise: Full-stack development, cloud architecture, cybersecurity, AI, and IoT.
-[+] Objective: Seeking a junior role in Software Engineering, Cloud/DevOps, or IT Support.
-[+] Current Focus: Building hardware-integrated software and production-quality APIs.
+[+] Degree_Status: BSc (Hons) Applied Computing -> [FIRST CLASS ACHIEVED]
+[+] Certs        : BTEC Level 5 HND (Distinction) | AWS CLF-C02 (Loading...)
+[+] Skill_Tree   : Full-Stack, Cloud Arch, AI/ML, IoT Integration, Hardware Repair, 
+[+] Objective    : Error...
+[+] Active_Task  : Building...
 ---------------------------------------------------------------------------
 Process finished with exit code 0.
 
 ```
 
 # About Me:
-Welcome to my GitHub! I am a dedicated software engineer with a strong foundation in both software development and hardware integration. I enjoy bridging the gap between physical devices and web applications, building everything from underlying database schemas to responsive front-end dashboards.
+ I am a multi-disciplinary developer who loves exploring how things work. Whether it is building hardware-software bridges, experimenting with AI and machine learning, ps i repair physical things even if I mess it up along the way, Why not!
+
+
+"we grow up but keep that curious kid in you" 
 
 ###
 
