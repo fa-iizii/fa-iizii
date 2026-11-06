@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWhwcDE5N3dnd3p5cmlxZWpkc2V1bnVtdmFrcndiM25keHJseGEyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ijimesKbVx6ouhJU8d/giphy.gif" alt="Typing Cat" />
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG9ldmUxc25zNDU2b2FhcWh2ZW5mNXc3OWczbnRoeXBhN3V1NGN0aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/VFXegkTrzmPtvCvtsu/giphy.gif" alt="a-gif" />
 
 # `>_ root@f1z:~# ./whoami.sh`
 
